@@ -1,4 +1,4 @@
-#Guess A Number
+Guess A Number
 
 Develop a console-based game where the computer generates a random number between 1 and 10, and the player tries to guess it. The game provides feedback whether the guess is too high, too low, or correct.
 
