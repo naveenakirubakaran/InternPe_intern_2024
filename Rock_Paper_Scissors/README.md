@@ -14,7 +14,7 @@ Randomly generate the computer's move (Rock, Paper, or Scissors).
 
 3.Game Logic:
 Compare the user's move with the computer's move to determine the winner based on the standard rules:
-Rock beats Scissors
+Rock beats Scissors 
 Scissors beats Paper
 Paper beats Rock
 Display the computer's move and the result of the round (win, lose, or tie).
