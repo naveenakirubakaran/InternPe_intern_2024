@@ -1,6 +1,6 @@
-##Connect Four Game##
+# Connect Four Game
 
-the step-by-step guide to creating a Connect Four game in Java:
+## The step-by-step guide to creating a Connect Four game in Java:
 
 1.Create the Board:
 The board is a 2D array of characters, initialized with empty spaces.
